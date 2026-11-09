@@ -1,0 +1,13 @@
+Escenario,Métrica,Media,DE,Mín,Máx,IC 95% Inf,IC 95% Sup
+E1_Climatologia_Base,Exactitud Viterbi (%),73.07,2.88,62.47,81.92,72.89,73.24
+E1_Climatologia_Base,Días en Alerta Roja V4 (días/año),46.03,8.46,24.0,80.0,45.51,46.56
+E1_Climatologia_Base,Días en Régimen S3 (días/año),81.81,14.01,39.0,129.0,80.94,82.68
+E1_Climatologia_Base,Log-Verosimilitud P(O|λ),-460.56,9.96,-495.7,-432.32,-461.18,-459.94
+E2_Anomalia_La_Nina,Exactitud Viterbi (%),74.23,2.92,65.48,83.84,74.05,74.41
+E2_Anomalia_La_Nina,Días en Alerta Roja V4 (días/año),101.32,10.71,70.0,136.0,100.66,101.99
+E2_Anomalia_La_Nina,Días en Régimen S3 (días/año),203.52,17.2,158.0,252.0,202.45,204.59
+E2_Anomalia_La_Nina,Log-Verosimilitud P(O|λ),-471.3,7.62,-495.64,-450.88,-471.77,-470.83
+E3_Sensibilidad_Ruido,Exactitud Viterbi (%),58.21,3.98,46.03,72.6,57.97,58.46
+E3_Sensibilidad_Ruido,Días en Alerta Roja V4 (días/año),49.2,7.55,28.0,76.0,48.73,49.67
+E3_Sensibilidad_Ruido,Días en Régimen S3 (días/año),83.27,14.09,43.0,132.0,82.4,84.15
+E3_Sensibilidad_Ruido,Log-Verosimilitud P(O|λ),-479.18,7.61,-501.33,-451.14,-479.66,-478.71
